@@ -1,6 +1,8 @@
 Paladini Photography Blogger Theme
 =================
 
+![](http://i.imgur.com/G2NOOOc.png)
+
 A simple blogger theme for photographers based on [Kamera Photography Free](http://www.veethemes.com/2015/01/kamera-photography-blog.html).
 
 The only difference between this theme and the original is that I've made some small changes:
